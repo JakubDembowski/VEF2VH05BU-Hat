@@ -23,6 +23,11 @@
     * Létt að nota/læra á það.
     * Git er frítt að nota.
     * það er hraðvirkt.
-  > Hér get ég sagt mína skoðun um Git umsjónakerfið.
-  > Mér finnst að git umsjónakerfið er frábært, og ekki flókið að læra á.
+
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+    * Eins mikið og þú getur.
+
+7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+    * Working Directory er staður sem að þú ert að vinna á.
+    * Staging Area er millisvæði þar sem hægt er að forsníða og yfirfara áður en þú 'committar' skuldunum.
 
